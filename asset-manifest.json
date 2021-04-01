@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/debugged_frontend/static/css/main.7db0aed2.chunk.css",
+    "main.js": "/debugged_frontend/static/js/main.41710c73.chunk.js",
+    "main.js.map": "/debugged_frontend/static/js/main.41710c73.chunk.js.map",
+    "runtime-main.js": "/debugged_frontend/static/js/runtime-main.2a9e349c.js",
+    "runtime-main.js.map": "/debugged_frontend/static/js/runtime-main.2a9e349c.js.map",
+    "static/css/2.a9061497.chunk.css": "/debugged_frontend/static/css/2.a9061497.chunk.css",
+    "static/js/2.183cb5b6.chunk.js": "/debugged_frontend/static/js/2.183cb5b6.chunk.js",
+    "static/js/2.183cb5b6.chunk.js.map": "/debugged_frontend/static/js/2.183cb5b6.chunk.js.map",
+    "static/js/3.ad56244d.chunk.js": "/debugged_frontend/static/js/3.ad56244d.chunk.js",
+    "static/js/3.ad56244d.chunk.js.map": "/debugged_frontend/static/js/3.ad56244d.chunk.js.map",
+    "static/js/4.a50bd566.chunk.js": "/debugged_frontend/static/js/4.a50bd566.chunk.js",
+    "static/js/4.a50bd566.chunk.js.map": "/debugged_frontend/static/js/4.a50bd566.chunk.js.map",
+    "static/js/5.8f5acbc3.chunk.js": "/debugged_frontend/static/js/5.8f5acbc3.chunk.js",
+    "static/js/5.8f5acbc3.chunk.js.map": "/debugged_frontend/static/js/5.8f5acbc3.chunk.js.map",
+    "static/js/6.ea69b487.chunk.js": "/debugged_frontend/static/js/6.ea69b487.chunk.js",
+    "static/js/6.ea69b487.chunk.js.map": "/debugged_frontend/static/js/6.ea69b487.chunk.js.map",
+    "index.html": "/debugged_frontend/index.html",
+    "static/css/2.a9061497.chunk.css.map": "/debugged_frontend/static/css/2.a9061497.chunk.css.map",
+    "static/css/main.7db0aed2.chunk.css.map": "/debugged_frontend/static/css/main.7db0aed2.chunk.css.map",
+    "static/js/2.183cb5b6.chunk.js.LICENSE.txt": "/debugged_frontend/static/js/2.183cb5b6.chunk.js.LICENSE.txt",
+    "static/js/3.ad56244d.chunk.js.LICENSE.txt": "/debugged_frontend/static/js/3.ad56244d.chunk.js.LICENSE.txt",
+    "static/media/ankita.3f40b37c.jpeg": "/debugged_frontend/static/media/ankita.3f40b37c.jpeg",
+    "static/media/icon.css": "/debugged_frontend/static/media/background.b0cc65b2.jpg",
+    "static/media/bora.d0b15be1.jpg": "/debugged_frontend/static/media/bora.d0b15be1.jpg",
+    "static/media/debugged.34146423.png": "/debugged_frontend/static/media/debugged.34146423.png",
+    "static/media/insta.a7afe175.svg": "/debugged_frontend/static/media/insta.a7afe175.svg",
+    "static/media/home.css": "/debugged_frontend/static/media/parallaximg.d4c3e99c.png",
+    "static/media/sanket.4a85879a.jpeg": "/debugged_frontend/static/media/sanket.4a85879a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a9e349c.js",
+    "static/css/2.a9061497.chunk.css",
+    "static/js/2.183cb5b6.chunk.js",
+    "static/css/main.7db0aed2.chunk.css",
+    "static/js/main.41710c73.chunk.js"
+  ]
+}
