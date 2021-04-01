@@ -14,6 +14,7 @@ import Test from './hometestimonial/testimonial.js';
 import Services from './homeservices/services.js';
 import Homeicon from './homeiconpage/Homeicon.js'
 import Package from './homepackage/package.js'
+import Footer from '../Footer/Footer';
 
 class Home extends Component {
   constructor() {
@@ -52,9 +53,7 @@ class Home extends Component {
          <App1/>
       </div>
       </div>
-
-      <footer className="footer mt6">developed by debugged.exe</footer>
-      <footer  className="footer">websites | mobile applications | digital marketing</footer>
+        <Footer/>
       </div>
     );
   }

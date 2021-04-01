@@ -9,6 +9,7 @@ import { GoMail,GoLocation } from "react-icons/go";
 import { AiFillLinkedin,AiFillTwitterCircle } from "react-icons/ai";
 import { FiSend } from "react-icons/fi";
 import insta from './insta.svg';
+import Footer from '../Footer/Footer';
 
 const initialState = {
 	email: '',
@@ -113,8 +114,7 @@ class Contact extends Component {
            	<div className="links mt2"> <GoLocation size="2em" color="#e88f0a" className="mr2 "/>Pune,Maharashtra</div>
       </div>
       </div>
-      <footer className="footer mt6">developed by debugged.exe</footer>
-      <footer  className="footer">websites | mobile applications | digital marketing</footer>
+      <Footer/>
 
 </>
     );

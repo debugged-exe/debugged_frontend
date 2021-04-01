@@ -24,3 +24,21 @@ code {
   background-color: gray;
   color: white;
 }
+
+.rec.rec-arrow:hover:enabled{
+  background-color: white;
+  color: black;
+}
+
+.rec.rec-dot_active{
+  background-color: gray;
+  box-shadow: 0 0 1px 3px white;
+}
+.rec.rec-dot_active:hover:enabled{
+  background-color: gray;
+  box-shadow: 0 0 1px 3px white;
+}
+.rec.rec-dot_active:hover:focus{
+  background-color: gray;
+  box-shadow: 0 0 1px 3px white;
+}
