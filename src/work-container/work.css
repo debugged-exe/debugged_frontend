@@ -24,8 +24,8 @@
 }
 .proj{
   text-align: center;
-  height:400px;
-  width:500px;
+  height:75vh;
+  width:40vw;
   border-radius:20px;
 }
 Carousel{
@@ -114,5 +114,7 @@ margin:0px;
 .proup{
   font-size:1.2rem;
 }
-
+.projhead{
+  margin-top: 20%;
+}
 }

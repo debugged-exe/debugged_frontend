@@ -24,7 +24,7 @@ const Work = () => {
       <span id="projcomp"></span>
       <div className="home2" >
         <div className="mt4" >
-          <p className="pro ml4 white" style={{ fontFamily: 'Yusei Magic' }}>Projects Completed</p>
+          <p className="pro ml4 white projhead" style={{ fontFamily: 'Yusei Magic' }}>Projects Completed</p>
           <div className="bb bw2 left line "></div>
           <Suspense fallback={<div className="flex flex-column justify-center items-center"><p className="white center f3 b pa5">Loading...</p></div>}>
             <Projc />
