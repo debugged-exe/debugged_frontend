@@ -31,7 +31,7 @@ const Work = () => {
           </Suspense>
 
           <div className="mt5">
-            <p className="pro white ml3" style={{ fontFamily: 'Yusei Magic' }}>Our digital marketing</p>
+            <p className="pro white ml3" style={{ fontFamily: 'Yusei Magic' }}>Our digital marketing clients</p>
             <div className="bb bw2 left line mb4"></div>
             <Suspense fallback={<div className="flex flex-column justify-center items-center"><p className="white center f3 b pa5">Loading...</p></div>}>
               <Digitalproj />

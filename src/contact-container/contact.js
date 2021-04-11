@@ -85,7 +85,7 @@ class Contact extends Component {
       	handleChange={this.handleChange}
       	required
       	/>
-      <CustomButton type="submit">Contact Us</CustomButton>
+      <CustomButton type="submit">Send Message</CustomButton>
       </form>
       </div>
 
@@ -107,7 +107,7 @@ class Contact extends Component {
 			<div className="links grow mb4"><a href="https://wa.me/919168894490" className="a"><FaWhatsapp size="2em" color="#e88f0a" className="mr2 grow"/></a></div>
 			</div>
       </div>
-						<p className="serv black fw4 ml2">Head Office</p>
+						<p className="serv black fw4 ml2">Reach us at</p>
 						<div className="bb bw2 center divide mt3" ></div>
 						<div className="links mt2"><a href='mailto:debugged.exe@gmail.com'><GoMail size="2em" color="#e88f0a" className="mr2 "/>debugged.exe@gmail.com</a></div>
 						<div className="links"><a href="tel:919168894490" ><FaPhoneAlt size="1.5em" color="#e88f0a" className="mr2 "/>+91 9168894490</a></div>

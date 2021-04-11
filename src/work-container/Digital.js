@@ -14,7 +14,6 @@ useEffect(()=>{
  .then(resp=>{
    if(resp[0]._id){
      setGal(resp);
-     console.log(resp.length,"gal");
    }
  })
  .catch(err => {

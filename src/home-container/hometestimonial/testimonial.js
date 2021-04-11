@@ -12,7 +12,7 @@ const Test=()=>
 
 return(
 <div data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="1000">
-  <p style={{fontFamily: 'Yusei Magic'}} className="white serv">Our <span className="code mb6 mt4" style={{fontFamily: 'Yusei Magic'}}>testimonials</span>.</p>
+  <p style={{fontFamily: 'Yusei Magic'}} className="white serv">Our <span className="code mb6 mt4" style={{fontFamily: 'Yusei Magic'}}>testimonials</span></p>
   <Carousel className="mt2" >
 {
     tests.map((test)=>(

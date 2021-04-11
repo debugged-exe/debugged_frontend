@@ -38,8 +38,8 @@ class Home extends Component {
 
       <div className="parallax">
         <h1 className="code ma3 mt5" style={{fontFamily: 'Yusei Magic'}}>About <span className="white"> Us</span></h1>
-        <p className="pa5 para white" style={{fontFamily: 'Yusei Magic'}}><p className="white"><span className="code f3">debugged</span><span className="f3 white"> .exe </span><span className="f4">is a group of enthusiastic, developers who build websites and mobile applications, providing the needful services to individuals and companies alike.</span></p>
-          <br/><p className="f4 white para"> We ,at <span className="code f3">debugged</span> are striving to bring solutions to your problems in the most simplistic and practical manner.</p>
+        <p className="pa5 para white" style={{fontFamily: 'Yusei Magic'}}><p className="white"><span className="code f3">debugged</span><span className="f3 white">.exe </span><span className="f4">is a group of enthusiastic, developers who build websites and mobile applications, providing the needful services to individuals and companies alike.</span></p>
+          <br/><p className="f4 white para"> We, at <span className="code f3">debugged</span> are striving to bring solutions to your problems in the most simplistic and practical manner.</p>
         </p>
       </div>
 
