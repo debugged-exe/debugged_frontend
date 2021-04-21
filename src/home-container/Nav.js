@@ -23,6 +23,7 @@ const Nav1 =()=>
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto Navbar-text-color right" >
              <Link to='/#homeicon' ><span className={`white nav  ul f4 pa2 ${location.hash==='#homeicon'?'active1':'left ul'} `} >Home</span></Link>
+             <Link to='/covidform' ><span className={`white nav  ul f4 pa2 ${location.hash==='#/covidform'?'active1':'left ul'} `} >Covid Form</span></Link>
              <Link to='/#about'><span className={`white nav  ul f4 pa2 ${location.hash==='#about'?'active1':'left ul'} `}>About Us</span></Link>
              <Link to='/work/#projcomp'><span className={`white nav  ul f4 pa2 ${location.hash==='#projcomp' && location.pathname==='/work/'?'active1':'left ul'} `}> Our Work</span></Link>
              <Link to='/contact/#contactdiv'><span className={`white nav  ul f4 pa2 ${location.pathname==='/contact/'&& location.hash==='#contactdiv'?'active1':'left ul'} `}>Contact Us</span></Link>

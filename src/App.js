@@ -10,6 +10,7 @@ import {
 import Home from './home-container/home.js';
 import Work from './work-container/work.js';
 import Contact from './contact-container/contact.js';
+import CovidForm from './CovidForm/CovidForm.jsx';
 
 class App extends Component {
   constructor() {
@@ -24,6 +25,7 @@ class App extends Component {
            <Route exact path='/' component={Home}/>
            <Route exact path='/work' component={Work}/>
            <Route exact path='/contact' component={Contact}/>
+           <Route exact path='/covidform' component={CovidForm}/>
         </Switch>
         </Router>
      </div>
