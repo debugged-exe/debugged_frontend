@@ -93,10 +93,15 @@ Link{
 // }
 //
 //
+.home-tag{
+  width: auto;
+  margin-right: 2px;
+  padding-right: 15px;
+}
 @media only screen
    and (max-width :1024px) {
 
      .right{
-       margin-left: 0%;
+       margin-left: 35%;
      }
 }
