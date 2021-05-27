@@ -50,7 +50,7 @@ const showMoreItems=()=>
                                    <div className="flex flex-column items-center" style={{width:'100vw'}}data-aos="fade-left" data-aos-duration="500">
                                     <p  className="pro tc white" style={{fontFamily: 'Yusei Magic'}}> {data.title}</p>
                                     <p>{data.description}</p>
-                                    <a href={data.link}><button className=" book grow br2 mb1" >View webiste</button></a>
+                                    <a href={data.link}><button className=" book grow br2 mb1" >View website</button></a>
                                    </div>
                          </div>
                       <div className="bt differline mt3 mb3 center"></div>
